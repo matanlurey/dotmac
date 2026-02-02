@@ -1,6 +1,9 @@
 brew "git"
 
 cask "1password"
-cask "google-chrome"
-cask "visual-studio-code"
+cask "discord"
 cask "ghostty"
+cask "google-chrome"
+cask "signal"
+cask "visual-studio-code"
+cask "whatsapp"
