@@ -1,7 +1,9 @@
+brew "awscli"
 brew "git"
 
 cask "1password"
 cask "discord"
+cask "font-fira-code"
 cask "ghostty"
 cask "google-chrome"
 cask "signal"
