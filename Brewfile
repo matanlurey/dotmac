@@ -1,8 +1,11 @@
 brew "awscli"
+brew "gemini-cli"
 brew "gh"
 brew "git"
+brew "go"
 
 cask "1password"
+cask "claude-code"
 cask "discord"
 cask "font-fira-code"
 cask "ghostty"
